@@ -1,1 +1,21 @@
+title: Prof. Kun (Kevin) Sun
+description: Professor of Computational Linguistics and Cognitive Science
+author: Kun (Kevin) Sun
+email: sharpksun@hotmail.com
+baseurl: ""
+url: "https://yourusername.github.io"
 
+# Build settings
+markdown: kramdown
+theme: minima  # You can choose a different theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - contact.md
